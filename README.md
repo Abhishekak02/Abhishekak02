@@ -32,7 +32,7 @@
 
 ### 🤝 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/abhishek-rathore-7734771a2)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-rathore-7734771a2/)
 - 📝 [My Tech Blog](https://ourtechtale.hashnode.dev/)
 - 🤳 [Twitter](https://x.com/Abhishe81187690) 
 - 💬 Ask me about Python, Resume Projects, or Data Analysis
